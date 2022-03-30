@@ -22,3 +22,8 @@ Go to git, and create you account
 I owe it to these guys for teaching me ...
 1. https://api.dart.dev/stable/2.16.2/dart-core/Iterable/iterator.html , for providing nice api documentation
 2. 
+
+# How to use github with vscode
+
+This is just an example, where i can edit files, in my local machine. 
+And later, commit any changes to my repo.
