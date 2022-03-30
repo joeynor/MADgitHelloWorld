@@ -18,3 +18,7 @@ Go to git, and create you account
 2. images of runtime
 3. refer to markdown language on how to write your readme.md 
 
+## References
+I owe it to these guys for teaching me ...
+1. https://api.dart.dev/stable/2.16.2/dart-core/Iterable/iterator.html , for providing nice api documentation
+2. 
